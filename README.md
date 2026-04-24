@@ -2,6 +2,9 @@
 
 A ReAct agent that solves questions using tool calls.
 
+## Walkthrough Video
+[Youtube Link](https://youtu.be/u3JR5uZ5HFI)
+
 ## Setup
 
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) if you don't have it.
